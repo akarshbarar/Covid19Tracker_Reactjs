@@ -7,7 +7,7 @@ and React Leaflet for map and other features.
 You can vist the site on the link given below:
 https://covid19tracker-a45a3.web.app/
 
-The main credit of making this project goes to Clever Proggrammer Youtube Channel.
+
 
 
 
@@ -77,3 +77,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## Inspiration
+Clever Programmer youtube channel
