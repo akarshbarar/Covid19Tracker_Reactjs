@@ -4,6 +4,9 @@ As Corna Virus tracking site was not so much attractive to me so developed this.
 API has been used from https://disease.sh
 and React Leaflet for map and other features.
 
+You can vist the site on the link given below:
+https://covid19tracker-a45a3.web.app/
+
 The main credit of making this project goes to Clever Proggrammer Youtube Channel.
 
 
