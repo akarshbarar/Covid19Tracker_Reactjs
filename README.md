@@ -1,4 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Hello this is Akarsh Barar
+This project was build using React js and Deployed and hosted on firebase.
+As Corna Virus tracking site was not so much attractive to me so developed this.
+API has been used from https://disease.sh
+and React Leaflet for map and other features.
+
+The main credit of making this project goes to Clever Proggrammer Youtube Channel.
+
+
 
 ## Available Scripts
 
